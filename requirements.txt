@@ -52,7 +52,7 @@ notebook==6.4.10
 numpy==1.16.2
 odo==0.5.0
 packaging==21.3
-
+pandas==0.24.2
 pandocfilters==1.5.0
 parso==0.7.1
 pickleshare==0.7.5
@@ -67,7 +67,7 @@ pyparsing==3.0.7
 pyrsistent==0.18.0
 python-dateutil==2.8.0
 pytz==2018.9
-pywin32==304
+pywin32==306
 pywinpty==1.1.6
 pyzmq==24.0.1
 requests==2.27.1
