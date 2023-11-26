@@ -66,7 +66,7 @@ pyodbc==4.0.26
 pyparsing==3.0.7
 pyrsistent==0.18.0
 python-dateutil==2.8.0
-pytz==2018.9
+pytz==2023.3.post1
 pywin32==306
 pywinpty==1.1.6
 pyzmq==24.0.1
