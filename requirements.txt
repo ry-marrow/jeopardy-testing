@@ -62,7 +62,6 @@ prompt-toolkit==3.0.31
 pycparser==2.21
 Pygments==2.13.0
 PyMySQL==1.0.2
-pyodbc==4.0.26
 pyparsing==3.0.7
 pyrsistent==0.18.0
 python-dateutil==2.8.0
