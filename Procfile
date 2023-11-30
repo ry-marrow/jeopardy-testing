@@ -1,1 +1,1 @@
-web: gunicorn jeopardy-testing:app
+web: gunicorn main:app
