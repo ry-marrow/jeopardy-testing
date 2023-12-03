@@ -11,8 +11,8 @@ DB_NAME = "database.db"
 
 def create_app():
     app = Flask(__name__)
-    app.config['SECRET_KEY'] = '6LfaRiQpAAAAAB4wDip7CAno-8UaQXyByAu-0sNx' # When in production you would not want to share this with anyone
-    app.config['SITE_KEY'] = '6LfaRiQpAAAAAHAOJt6QN6l_2E2DbYwIkTKqn_UZ'
+    app.config['SECRET_KEY'] = '6LetRNQoAAAAALJACuSqiZF5XmUBHnenNtyc8O9-' # When in production you would not want to share this with anyone
+    app.config['SITE_KEY'] = '6LetRNQoAAAAAHH5mTVv3tvIJuyTN1h_jwvf1HoG'
     app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite:///{DB_NAME}' # this is where the database is stored. 
     # initializing the database by giving it out flask apps
     db.init_app(app)
